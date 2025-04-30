@@ -4,6 +4,36 @@
 
 This test is designed to assess basic knowledge in networking and DNS (Domain Name System). It is divided into three distinct sections, each focusing on a critical area of cybersecurity and networking fundamentals.
 
+
+# Student info
+💻 Online Network & Server Test – Instructions & Motivation
+You are about to take an online test designed to assess your knowledge in networking and server systems. This test is structured to challenge your skills and identify top performers. Don’t worry if you can't finish all the questions—that’s intentional. The goal is to see how far you can go and how well you solve problems under pressure.
+
+⏰ Be Prepared
+The test will be timed, so it's important that you come fully prepared:
+
+Ensure you have a stable internet connection.
+
+Choose a quiet, distraction-free environment.
+
+Minimize any external factors that might affect your device or network during the test.
+
+🧰 Tools & Approach
+To complete the test, you’ll need to run various tools and commands:
+
+You can use your local laptop, or
+
+You may be provided with online services to help extract and analyze data.
+
+Many of the questions will involve digging into information—you’ll need to analyze outputs and identify the correct answers based on real data. This is a practical test of your skills, not just theory.
+
+🚀 Final Thoughts
+Approach this test as a learning opportunity and a chance to shine. Stay calm, focus on what you know, and use your time wisely. You're capable of more than you think.
+
+Good luck—you’ve got this! 💪
+
+
+
 ## Test Structure
 
 ### 1. DNS
