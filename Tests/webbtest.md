@@ -3,7 +3,7 @@
 # Web and Service Test
 
 This test evaluates your ability to investigate a web service using standard network tools.  
-**All tasks must be performed against the domain: THE DOMAIN.**
+**All tasks must be performed against the domain: urvalsprov.se
 
 ---
 
@@ -13,7 +13,7 @@ This test evaluates your ability to investigate a web service using standard net
 
 **Expected Command:**
 ```
-curl -v example.com
+curl -v urvalsprov.se
 ```
 
 **Correct Answer:** Apache
