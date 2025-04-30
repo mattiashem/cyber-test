@@ -87,7 +87,7 @@ curl -v urvalsprov.se
 
 ## 10. Service on Port 555
 **Question:**  
-- What service is running on port 555?
+- What service is running on port 5555?
 
 **Correct Answer:** Elasticsearch
 
