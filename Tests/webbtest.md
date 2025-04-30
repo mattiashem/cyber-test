@@ -42,8 +42,11 @@ curl -v urvalsprov.se
 
 **Note:** 
 
+Theer si two ways you can look at the webserver or fingerprint the SSH server to get the correkt OS
+
 
 **Correct Answer:** Debian ore Ubuntu 
+
 ---
 
 ## 5. Database in Use
