@@ -54,7 +54,7 @@ curl -v urvalsprov.se
 
 ## 6. Open Ports
 **Question:**  
-- Besides ports 80, 22, 443, and 555, are there any other open ports on the server?  
+- Besides ports 80, 22, 443, and 9200, are there any other open ports on the server?  
   - If yes, specify which port.
 
 **Correct Answer:** 10001
@@ -85,9 +85,9 @@ curl -v urvalsprov.se
 
 ---
 
-## 10. Service on Port 555
+## 10. Service on Port 9200
 **Question:**  
-- What service is running on port 5555?
+- What service is running on port 9200?
 
 **Correct Answer:** Elasticsearch
 
