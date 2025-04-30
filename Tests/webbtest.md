@@ -22,9 +22,9 @@ curl -v urvalsprov.se
 
 ## 2. TLS Versions
 **Question:**  
-- What TLS versions is the web server configured to support?
+- Is TLS 1.0 versions on the web server configured ?
 
-**Correct Answer:** TLS 1.3
+**Correct Answer:** Yess
 
 ---
 
@@ -32,7 +32,7 @@ curl -v urvalsprov.se
 **Question:**  
 - Who is the trusted signer (Certificate Authority) of the TLS certificate?
 
-**Correct Answer:** Let's Encrypt
+**Correct Answer:** R10
 
 ---
 
@@ -57,7 +57,7 @@ curl -v urvalsprov.se
 - Besides ports 80, 22, 443, and 9200, are there any other open ports on the server?  
   - If yes, specify which port.
 
-**Correct Answer:** 10001
+**Correct Answer:** 8081
 
 ---
 
