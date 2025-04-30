@@ -30,18 +30,20 @@ curl -v urvalsprov.se
 
 ## 3. TLS Certificate Signer
 **Question:**  
-- Who is the trusted signer (Certificate Authority) of the TLS certificate?
+- Who is the trusted signer Issuer CN of the TLS certificate?
 
 **Correct Answer:** R10
 
 ---
 
-## 4. WordPress Version
+## 4. What OS is the server running ?
 **Question:**  
-- What is the version of WordPress being used on the site?
+- What is the Os of the server 
 
-**Note:** No answer is currently provided; you should identify the version by investigating metadata or page source if available.
+**Note:** 
 
+
+**Correct Answer:** Debian ore Ubuntu 
 ---
 
 ## 5. Database in Use
@@ -73,15 +75,18 @@ curl -v urvalsprov.se
 **Question:**  
 - Is it possible to log in to the SSH server using a username and password?
 
-**Correct Answer:** No
+**Correct Answer:** Yes
 
 ---
 
-## 9. SSH TLS Version
+## 9. SSH Key Exchange Algorithms
 **Question:**  
-- What TLS (or SSH) protocol version is the OpenSSH server configured to support?
+- Does the SSH server support the following key exchange algotithms diffie-hellman-group14-sha256 ?
 
-**Note:** No answer is currently provided; use tools like `ssh -vvv` or `nmap` to determine.
+**Note:** 
+
+**Correct Answer:** Yes
+
 
 ---
 
