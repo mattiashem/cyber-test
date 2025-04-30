@@ -65,7 +65,7 @@ curl -v urvalsprov.se
 **Question:**  
 - Where is the server physically hosted, and which company is hosting it?
 
-**Correct Answer:** Germany
+**Correct Answer:** Finland
 
 ---
 
